@@ -1,2 +1,6 @@
 This is first line and it will going to merge
 This is second line
+
+Did: init, remote, add , commit, push, merge, pull, log
+
+Next : ammend, stash, pop, branch , checkout and cherrypick 
